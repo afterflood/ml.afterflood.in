@@ -9,5 +9,5 @@
 * Cover it with tarpaulin if it rains.
 * Once its full, fill the earth back in and close it
 
-**Source: Dr. Mini Chacko** 
+**Source: Dr. Mini Chacko**
 

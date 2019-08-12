@@ -15,9 +15,9 @@ Use the cleanup area as a place to wash up before taking a break. In hot weather
 
 ## **Put on your personal protection equipment \(PPE\)**
 
-Put on your personal protective equipment – PPE \(coveralls, boots, gloves, respirators, eye protection and head protection\). Have partners, if possible, help you in and out of your coveralls and help you adjust your respirators. Check to make sure the respirator is working. Cover the with your hands and at- tempt to inhale; the respirator is working if no air enters. Keep all of your PPE on when in the home. 
+Put on your personal protective equipment – PPE \(coveralls, boots, gloves, respirators, eye protection and head protection\). Have partners, if possible, help you in and out of your coveralls and help you adjust your respirators. Check to make sure the respirator is working. Cover the with your hands and at- tempt to inhale; the respirator is working if no air enters. Keep all of your PPE on when in the home.
 
-## CLEANUP STATION 
+## CLEANUP STATION
 
 * pump soap
 * water eye 
@@ -28,6 +28,4 @@ pump soap soap water eye wash station drinking water dirty rinsewater empty buck
 **Source :** Manoj Nair
 
 > **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
-
-
 
