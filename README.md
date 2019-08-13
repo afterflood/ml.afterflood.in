@@ -9,7 +9,7 @@ description: The crowd sourced data hub for all after flood precautions
 > **A verified crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood**
 
 {% hint style="success" %}
-**More on After Flood Team** [**info.afterflood.in**](http://info.afterflood.in)\*\*\*\*
+**More on After Flood Team** [**info.afterflood.in**](http://info.afterflood.in)
 {% endhint %}
 
 {% hint style="success" %}
@@ -20,16 +20,11 @@ Concise, reliable and shareable infographics for health, environmental and socia
 
 {% hint style="success" %}
 **Download a copy of Comprehensive Clean-Up Guide PDF**  
-[**doc.afterflood.in**](http://doc.afterflood.in/)
+[**Download**](https://github.com/afterflood/ml.afterflood.in/blob/master/malayalam.pdf)
 {% endhint %}
 
 {% hint style="warning" %}
 **Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)​
-{% endhint %}
-
-{% hint style="info" %}
-\*\*\*\*[**kannada.afterflood.in**](https://kannada.afterflood.in/)  
-**Kannada Version of \#AfterFlood**
 {% endhint %}
 
 {% hint style="danger" %}
@@ -174,4 +169,3 @@ Concise, reliable and shareable infographics for health, environmental and socia
 Or email us at `afterflood.in@gmail.com`
 
 {% page-ref page="contribute.md" %}
-

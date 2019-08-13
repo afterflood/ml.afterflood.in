@@ -6,7 +6,7 @@ Sponge off with clean water using a soft sponge or cotton rag. Blot off all exce
 
 **Clothing, drapery and other cloth**
 
-Clothes should generally be thrown away after flooding. If clothing and other cloth materials will be saved, remember they may contain mold or other contaminants from the flood waters. Wash clothing in a washing machine, not by hand. Add two table- spoons of liquid chlorine bleach per washer load. Dry cleaning may also be used, especially for special fab-rics such as wool and silk.
+Clothes should generally be thrown away after flooding. If clothing and other cloth materials will be saved, remember they may contain mold or other contaminants from the flood waters. Wash clothing in a washing machine, not by hand. Add two table- spoons of liquid chlorine bleach per washer load. Dry cleaning may also be used, especially for special fabrics such as wool and silk.
 
 **China, glass, jewelry, porcelain and metal possessions**
 
@@ -23,4 +23,3 @@ Photos and papers may be frozen in zippered plastic freezer bags and stored unti
 **Source:** Manoj Nair
 
 > **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
-
