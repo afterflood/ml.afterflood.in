@@ -22,31 +22,8 @@
 20. വീട്ടിൽ ഫ്ലഷും വെള്ള പൈപ്പും വർക്ക് ചെയ്യുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക. ഉണ്ടെകിൽ അതിലൂടെ വരുന്നത് ശുദ്ധജലമാണോ കലക്ക വെള്ളമാണോ എന്ന് ശ്രദ്ധിക്കുക.
 21. വീടിന്റെ അകത്തുള്ള മിക്കവാറും വസ്തുക്കൾ \(ഫർണിച്ചർ, പുസ്തകങ്ങൾ\) എല്ലാം ചെളിയിൽ മുങ്ങിയിരിക്കാനാണ് സാധ്യത. ഇവയുടെ ചിത്രം എടുത്തുവെക്കണം.
 22. വീടിന്റെ വാതിലും ജനാലയും വെയിലുള്ള സമയത്ത് തുറന്നിടുക. ശുദ്ധമായ വായു പ്രവഹിക്കട്ടെ.
-23. Do NOT depart for your home alone, have at least two Adults with you, so that incase of emergency help can be readily available \(there have been cases of people having a Heart Attack after witnessing their destroyed homes\).
-24. When going back home for the first time after the floods, do NOT take children along, we cannot predict what we will experience there or what dangers we will face, do NOT let  children be exposed to physical or mental dangers
-25. Do NOT go to your home at night, dangers such as snakes and gas leaks can be present
-26. After floods it is possible for the roads and front yard leading up to your home to be piled up with mud up to a height of 1 feet, difficulty in opening the gate may be experienced
-27. The possibility of poorly built walls collapsing upon opening the gate is high, be careful and open the gates slowly  
-28. Avoid slipping and falling in the mud, use footwear like boots with thick soles for better grip. Ensure your safety by wearing a mask. If a mask is not available, tie a cloth around your nose and keep sturdy ropes on hand in case of emergency
-29. It is possible for the corpses of humans or animals to be washed up near our homes. If a corpse is found, do NOT touch it with bare hands. If a Human Corpse is found contact the police
-30. Before entering the house take a note of how high the water reached by checking the marks on the walls, make a mark using paint or other markers. The flood we have faced is something that is only experienced once in a century, the cause of such widespread destruction was partly due to no records existing of any such events in the past. let us not let the future generations suffer as we did
-31. Before entering the house take pictures from all around the house and keep track of signs that may suggest that the house is damaged
-32. If possible try to open the windows of the house from the outside and wait for sometime, only then enter the house
-33. Be conscious about snakes both in and around your boundary.
-34. Switch off your Electric Main switch before entering the house. Turn off the gas supply pipelines.
-35. Chances are that the External door frames may be clogged with debris, To open up the doors we need to push harder. If the building is old, it may lead to its overall strength issues so beware.
-36. Once you open the door and you sense an ill odour then keep the door and windows open for sometime before entering the house.
-37. Once you open the door you can see the entire re arrangement. You can even see your things floating in the water. So forecast the chances of some hanging objects and all which may fall on your head
-38. Never use lighter, cigarette, candle or any other sparking objects.
-39. Carefully remove the plug wire of all the electric appliance from the socket.
-40. Chances are that all the meat products that are kept in the freezer may be deteriorated, which will produce methane gas which is dangerous so beware.
-41. Make sure that you make a proper list and account of the damage the flood caused. If possible take the photographs of the damaged item in its current condition.
-42. Make sure the water coming through the pipes and flush is pure.
-43. Chances are that, most of the things \(Furniture, Books\) are submerged in dirt. Remember to keep photographs of this at that condition itself.
-44. Open the windows and doors during the day and allow for clean air circulation.
 
 {% embed url="https://www.youtube.com/watch?v=aGoevb5-Mfk" caption="" %}
 
 Source: Muralee Thummarukudy - Chief of Disaster Risk Reduction in the UN Environment Programme  
 \(Sourced from his facebook post\)
-
